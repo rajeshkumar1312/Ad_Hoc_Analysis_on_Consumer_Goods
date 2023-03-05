@@ -8,10 +8,10 @@ Presentation video [Link](https://www.linkedin.com/posts/mrajesh1312_codebasicsr
 
 ## Table of Contents
 
-- [Company Overview/Problem statement](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/new/main?readme=1#company-overviewproblem-statement)
-- [Atliq’s Business their Markets and Products](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/new/main?readme=1#atliqs-business-their-markets-and-products)
-- [Data Inputs](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/new/main?readme=1#data-inputs)
-- [Ad-hoc Request Along With The Result, Visualization And Insights](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/new/main?readme=1#ad-hoc-request-along-with-the-result-visualization-and-insights)
+- [Company Overview/Problem statement](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/edit/main/README.md#company-overviewproblem-statement)
+- [Atliq’s Business their Markets and Products](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/edit/main/README.md#atliqs-business-their-markets-and-products)
+- [Data Inputs](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/edit/main/README.md#data-inputs)
+- [Ad-hoc Request Along With The Result, Visualization And Insights](https://github.com/rajeshkumar1312/Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics/edit/main/README.md#ad-hoc-request-along-with-the-result-visualization-and-insights)
 
 ## Company overview/Problem Statement
 
