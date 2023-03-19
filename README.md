@@ -13,7 +13,7 @@ Presentation video [Link](https://www.linkedin.com/posts/mrajesh1312_codebasicsr
 - [Data Inputs](#data-inputs)
 - [Ad-hoc Request Along With The Result, Visualization And Insights](#ad-hoc-request-along-with-the-result-visualization-and-insights)
 
-## Company overview-Problem Statement
+## Company Overview And Problem Statement
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
