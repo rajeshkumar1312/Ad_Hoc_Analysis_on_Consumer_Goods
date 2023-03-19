@@ -8,12 +8,12 @@ Presentation video [Link](https://www.linkedin.com/posts/mrajesh1312_codebasicsr
 
 ## Table of Contents
 
-- [Company overview/Problem Statement](#company-overview-problem-statement)
+- [Company Overview And Problem Statement](#company-overview-and-problem-statement)
 - [Atliq’s Business their Markets and Products](#atliqs-business-their-markets-and-products)
 - [Data Inputs](#data-inputs)
 - [Ad-hoc Request Along With The Result, Visualization And Insights](#ad-hoc-request-along-with-the-result-visualization-and-insights)
 
-## Company overview/Problem Statement
+## Company overview-Problem Statement
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
