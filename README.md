@@ -1,5 +1,5 @@
 
-# Ad_Hoc_analysis_on_Consumer_Goods_Domain_By_Codebasics
+# Ad_Hoc_analysis_on_Consumer_Goods
 Codebasics SQL project on Provide Insights to Management in Consumer Goods Domain
 
 Challenge [Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
